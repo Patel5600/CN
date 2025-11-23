@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://cn-crypto-signals.vercel.app/sitemap.xml
+
+# Disallow sensitive paths (if any in future)
+# Disallow: /admin/
+# Disallow: /private/
